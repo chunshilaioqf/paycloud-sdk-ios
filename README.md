@@ -1,4 +1,4 @@
-pod 'paycloud'
+# pod 'paycloud'
 
 
 # paycloud-sdk-ios
